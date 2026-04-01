@@ -1,6 +1,5 @@
 
-vsp = 0;
-grv = 0.3;
+vsp = random_range(1,3);
 walksp = 4;
 hsp = walksp;
 
